@@ -1,0 +1,7 @@
+.settings
+.idea
+/log
+/build.xml
+/bin
+/logref
+
